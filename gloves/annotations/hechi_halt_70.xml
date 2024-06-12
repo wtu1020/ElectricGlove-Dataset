@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img1</folder>
+	<filename>hechi_halt_70.jpg</filename>
+	<path>C:\Users\SingThesong\Desktop\3204\split\img1\hechi_halt_70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>longglove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>311</ymin>
+			<xmax>463</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>
